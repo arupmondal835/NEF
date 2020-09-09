@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 NEF (NMR Exchange Format)
 =========================
 
@@ -18,3 +19,7 @@ For the top-level files,
 `LICENSE` contains the license for the NEF files (we propose GNU LGPL v. 3),
 `Charter.md` is the (proposed) charter and founding document for the NEF consortium, `
 `Changes.md` is a change log.
+=======
+# NEF
+NMR formating
+>>>>>>> 7d787dc84f1e274e20f21b8ad420a80a233e36b3
